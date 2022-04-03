@@ -10,12 +10,10 @@
 # 安装
   要使用此项目，请首先使用以下命令在你的设备上克隆repo：
 
-  ···
-  git init
+  ``` git init
 
-  ···
-  git clone 
+  ``` git clone 
   
-  ···
-  Github链接：
+  ``` Github链接：https://github.com/Charltin/android-calculator.git
+  
 # 使用方法
