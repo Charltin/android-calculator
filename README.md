@@ -10,10 +10,15 @@
 # 安装
   要使用此项目，请首先使用以下命令在你的设备上克隆repo：
 
-  ``` git init
-
-  ``` git clone 
-  
-  ``` Github链接：https://github.com/Charltin/android-calculator.git
+  ``` 
+  初始化 git init
+  ```
+  ```
+  克隆 git clone 
+  ```
+  ```
+  Github链接：https://github.com/Charltin/android-calculator.git
+  ```
   
 # 使用方法
++ 基本的加减乘除（可以运算 a + b * c 这种式子）
